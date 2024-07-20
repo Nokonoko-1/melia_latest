@@ -987,7 +987,7 @@
 [tb_start_text mode=1 ]
 #
 これにて[p]
-ゲーム「Veil Of Betraya」第４章[p]
+ゲーム「Veil Of Betrayal」第４章[p]
 「Melido」は終了となります[p]
 
 最後までお楽しみいただきありがとうございました。[p]
